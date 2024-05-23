@@ -1,0 +1,49 @@
+/* styles.css */
+
+/* Add your custom CSS styles here */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #FFEFD5; /* Light Orange */
+}
+
+.card {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    color: #212529;
+    border: none;
+}
+
+.btn-warning:hover {
+    background-color: #e0a800;
+}
+
+.m-1 {
+    margin: 5px;
+}
+
+/* You can add more styles as needed */
